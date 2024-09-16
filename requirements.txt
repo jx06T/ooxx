@@ -1,0 +1,4 @@
+numpy
+tensorflow
+IPython
+windows-curses
